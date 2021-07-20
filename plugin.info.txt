@@ -1,0 +1,7 @@
+base   cookiebanner
+author Andreas Gohr
+email  dokuwiki@cosmocode.de
+date   2021-07-20
+name   cookiebanner plugin
+desc   Display a cookie banner
+url    https://www.dokuwiki.org/plugin:cookiebanner
