@@ -49,7 +49,7 @@ jQuery(function () {
         $div.append($nay);
 
         $div.appendTo('.dokuwiki');
-    }
+    };
 
     // main: check cookie state and decide what to do
     const state = DokuCookie.getValue('pcb', 'nope');
